@@ -2,6 +2,6 @@
 using namespace std;
 int main()
 {
-cout<<"I am an Engineer."<<"\n";
+cout<<"you are chutiya."<<"\n";/*this is changr mc*/
 return 0;
 }
